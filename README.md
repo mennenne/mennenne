@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michele Sabatino
 - 👀 I’m interested in software and self development
 - 🌱 I’m currently learning software development
-- 💞️ I’m into collaborate with ITDM Group S.P.A. as BackEnd developer
-- 👨‍💻 Languages: Java, Spring, SQL
+- 💞️ I’m into collaborate with MC Sistemi S.P.A. as BackEnd developer
+- 👨‍💻 Background: Java, Spring, SQL, Http, REST, Mqtt
 - 💻 Instruments: Intellij Idea, PostMan, Swagger
 - 🌐 LinkedIn: www.linkedin.com/in/michelesabatino
