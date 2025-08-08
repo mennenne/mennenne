@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Michele Sabatino
-- 👀 I’m interested in software and self development
-- 🌱 I’m currently improving angular
-- 💞️ I’m into collaborate with MC Sistemi S.P.A. as FullStack developer
-- 👨‍💻 Background: HTML, CSS, JavaScript, TypeScript, Angular, Java, Spring, SQL, Http, REST, Mqtt
-- 💻 Instruments: Intellij Idea, VSCode, PostMan, Swagger, Chrome DevBar
-- 🌐 LinkedIn: www.linkedin.com/in/michelesabatino
+
